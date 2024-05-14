@@ -1,3 +1,3 @@
-Delgado Ricardo
-Domínguez Viviana
-Fernandez Noemi
+Delgado Ricardo,
+Domínguez Viviana,
+Fernandez Noemi.
