@@ -6,12 +6,12 @@ Fernandez Noemi.
 VALIDACIÓN
 
 Codigo de producto:
-Validación de tipo de dato, para verificar que se ingrese un numero
-Análisis de valor límite, para asegurarse que se un codigo valido entre 10000 y 99999
-Validación de campo obligatorio, todo producto está asociado con un código
+Validación de tipo de dato, para verificar que se ingrese un varchar.
+Verificacion de validez de datos, se rechaza la entrada si el código no se corresponde con un codigo de producto registrado.
+Validación de campo obligatorio, todo producto está asociado con un código.
 
 Nombre del producto:
-Validación de campo obligatorio, para asegurarse de que el producto tenga un nombre que lo identifique
+Validación de campo obligatorio, para asegurarse de que el producto tenga un nombre que lo identifique.
 
 
 Fecha de compra:
@@ -19,13 +19,13 @@ Comprobación de formato, para asegurarse de que se ingrese una fecha
 
 
 Precio de compra:
-Validación de tipo de dato, para verificar que se ingrese un float
-Comprobación de formato, para asegurarse de que luego de la coma solo haya dos dígitos
+Validación de tipo de dato, para verificar que se ingrese un float.
+Comprobación de formato, para asegurarse de que luego de la coma solo haya dos dígitos.
 
 
 Código del proveedor:
-Validación de tipo de dato, para verificar que se ingrese un numero
-Verificacion de validez de datos, se rechaza la entrada si no es el numero que se corresponda con un codigo de proveedor registrado
+Validación de tipo de dato, para verificar que se ingrese un varchar.
+Verificacion de validez de datos, se rechaza la entrada si el código no se corresponde con un código de proveedor registrado.
 
 
 
